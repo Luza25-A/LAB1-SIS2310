@@ -1,5 +1,5 @@
 ### PROBLEMA 1
-![Ejercicio 1](/LAB1-SIS2310/contenido/Imagenes/image1.png)
+![Ejercicio 1](/LAB1-SIS2310/contenido/fotos/image1.png)
 >Escriba un script bash que imprima la cadena "HOLA".
 ```
 echo "HELLO"
